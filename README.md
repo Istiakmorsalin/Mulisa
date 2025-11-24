@@ -407,7 +407,7 @@ SOFTWARE.
 
 ## 📞 Support
 
-For support, email your-email@example.com or open an issue in the GitHub repository.
+For support, email mmorsali@students.kennesaw.edu or open an issue in the GitHub repository.
 
 ---
 
